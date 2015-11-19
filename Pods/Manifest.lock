@@ -1,0 +1,10 @@
+PODS:
+  - MBError (1.0.0)
+
+DEPENDENCIES:
+  - MBError (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  MBError: 0e39f62b85951eca4207bb9ada63d630b85dcc11
+
+COCOAPODS: 0.39.0
